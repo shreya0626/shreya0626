@@ -3,7 +3,7 @@
 I'm an MCA final-year student passionate about software engineering, data analysis, and mobile app development. I specialize in building AI-driven applications and personalized nutrition systems. 
 
 ## 🚀 Skills
-- **Programming Languages**: Python, Dart, JavaScript
+- **Programming Languages**: Python, Java, Dart, JavaScript
 - **Frameworks & Tools**: Flutter, React Native, Spring Boot, Streamlit, Firebase
 - **AI/ML**: Random Forest, Neural Networks, Chatbots, Image Generation
 
