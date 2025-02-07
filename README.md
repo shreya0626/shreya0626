@@ -8,7 +8,7 @@ I'm an MCA final-year student passionate about software engineering, data analys
 - **AI/ML**: Random Forest, Neural Networks, Chatbots, Image Generation
 
 ## 🏆 Achievements
-- **CGPA**: 9.71 at Maharani Science College for Women, Bangalore
+- **CGPA**: 9.76 at Maharani Science College for Women, Bangalore
 - **Internships**:
   - AI Intern at Infosys Springboard
   - Full Stack Web Developer at Bharat
