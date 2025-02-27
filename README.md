@@ -1,6 +1,6 @@
 # Hi, I'm Shreya C 👋
 
-I'm an MCA graduate student passionate about software engineering, data analysis, and mobile app development. I specialize in building AI-driven applications and personalized nutrition systems. 
+I'm an MCA graduate passionate about software engineering, data analysis, and mobile app development. I specialize in building AI-driven applications and personalized nutrition systems. 
 
 ## 🚀 Skills
 - **Programming Languages**: Python, Java, Dart, JavaScript
